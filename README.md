@@ -13,10 +13,14 @@ It consists of 934 articles in English from the [Most cited](https://www.cambrid
 
 
 ~~*Code written mostly by [Anna Polyanskaya](vk.com/aglade), ~~
+
 ~~except fot some inner parts:~~
-~~* *`create_data()` written by [Other lady 1]()*~~
-~~* *`get_authors()` written by [Other lady 2]()*~~
-~~* *`get_citations(text)` written by [Other lady 3]()*~~
+
+~~*`create_data()` written by [Other lady 1]()*~~
+
+~~*`get_authors()` written by [Other lady 2]()*~~
+
+~~*`get_citations(text)` written by [Other lady 3]()*~~
 
 *Code written by [Alina Morse](), [Olga Vedenina]() & [Anna Polyanskaya](vk.com/aglade)
 
