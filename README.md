@@ -13,3 +13,16 @@ Code written by
 [Other ladies]()
 
 HSE, 2018
+
+## Progress so far
+
+step|status
+:---|:---
+Crawler| done
+Get/download articles| done
+Get English texts from PDF-files| done
+Get Russian texts from PDF-files| *is it even possible?*
+Get all citations| started
+Output data in right format| NO
+User-friendly interface| almost
+
