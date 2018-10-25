@@ -12,17 +12,15 @@ It consists of 1748 articles in Russian and English, mostly in FUCKING PDF forma
 It consists of 934 articles in English from the [Most cited](https://www.cambridge.org/core/journals/journal-of-linguistics/most-cited) section.
 
 
-~~*Code written mostly by [Anna Polyanskaya](vk.com/aglade), ~~
+~*Code written mostly by [Anna Polyanskaya](vk.com/aglade), except fot some inner parts:*~
 
-~~except fot some inner parts:~~
+~*`create_data()` written by [Other lady 1]()*~
 
-~~*`create_data()` written by [Other lady 1]()*~~
+~*`get_authors()` written by [Other lady 2]()*~
 
-~~*`get_authors()` written by [Other lady 2]()*~~
+~*`get_citations(text)` written by [Other lady 3]()*~
 
-~~*`get_citations(text)` written by [Other lady 3]()*~~
-
-*Code written by [Alina Morse](), [Olga Vedenina]() & [Anna Polyanskaya](vk.com/aglade)
+*Code written by [Alina Morse](), [Olga Vedenina]() & [Anna Polyanskaya](vk.com/aglade)*
 
 
 HSE, 2018
