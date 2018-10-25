@@ -8,16 +8,15 @@ It consists of 1748 articles in Russian and English, mostly in FUCKING PDF forma
 
 > So far, Russian PDF-files can't be read **at all** (*pyPDF2 is really bad at it*).
 
-* The `final_cambridge` uses a collection of articles from [Journal of Linguistics](https://www.cambridge.org/core/journals/journal-of-linguistics).
+* The `final_cambridge.py` uses a collection of articles from [Journal of Linguistics](https://www.cambridge.org/core/journals/journal-of-linguistics).
 It consists of 934 articles in English from the [Most cited](https://www.cambridge.org/core/journals/journal-of-linguistics/most-cited) section.
 
 
-~~*Code written mostly by 
-[Anna Polyanskaya](vk.com/aglade),
-except fot some inner parts:
-* *`create_data()` written by [Other lady 1]()*
-~~* *`get_authors()` written by [Other lady 2]()*
-* *`get_citations(text)` written by [Other lady 3]()*~~
+~~*Code written mostly by [Anna Polyanskaya](vk.com/aglade), ~~
+~~except fot some inner parts:~~
+~~* *`create_data()` written by [Other lady 1]()*~~
+~~* *`get_authors()` written by [Other lady 2]()*~~
+~~* *`get_citations(text)` written by [Other lady 3]()*~~
 
 *Code written by [Alina Morse](), [Olga Vedenina]() & [Anna Polyanskaya](vk.com/aglade)
 
@@ -48,4 +47,3 @@ Get/download articles| done
 Get all citations| done
 Output data in right format| NO
 User-friendly interface| almost
-
