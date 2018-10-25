@@ -7,9 +7,8 @@ It consists of 1748 articles in Russian and English, mostly in FUCKING PDF forma
 So far, Russian PDF-files can't be read by this programme (*pyPDF2 is really bad at it*).
 
 Code written by 
-
 [Anna Polyanskaya](vk.com/aglade)
-
+&
 [Other ladies]()
 
 HSE, 2018
