@@ -3,13 +3,13 @@
 
 We are currently using two collections.
 
-* The [`final_dialogue.py`](https://github.com/polyankaglade/DH-project/blob/master/final_dialogue.py)
+* The [`final_dialogue.py`](/codes/final_dialogue.py)
 uses a collection of articles from [Dialogue conference](http://www.dialog-21.ru/).
 It consists of 1748 articles in Russian and English, mostly in FUCKING PDF format.
 
 > So far, Russian PDF-files can't be read **at all** (*pyPDF2 is really bad at it*).
 
-* The [`final_cambridge.py`](https://github.com/polyankaglade/DH-project/blob/master/final_cambridge.py)
+* The [`final_cambridge.py`](/codes/final_cambridge.py)
 uses a collection of articles from [Journal of Linguistics](https://www.cambridge.org/core/journals/journal-of-linguistics).
 It consists of 934 articles in English from the [Most cited](https://www.cambridge.org/core/journals/journal-of-linguistics/most-cited) section.
 
