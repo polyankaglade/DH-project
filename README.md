@@ -1,4 +1,7 @@
 # DH-project
+
+![](/images/zlevels_by_between_labelsize_by_indegree.png)
+
 **[Here](/codes) you can find two Python-3 codes, which extract all references from a collection of articles and make extracted material ready for Gephy.**
 
 If you don't want to deal with Python, you can use theese [ready-for-Gephi .csv files](/output).
