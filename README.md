@@ -19,7 +19,10 @@ It consists of 1748 articles in Russian and English, mostly in ~~FUCKING~~ PDF f
 uses a collection of articles from [Journal of Linguistics](https://www.cambridge.org/core/journals/journal-of-linguistics).
 It consists of 934 articles in English from the [Most cited](https://www.cambridge.org/core/journals/journal-of-linguistics/most-cited) section.
 
-*Visualisation by [Olga Vedenina]()
+*Something by [Olga Vedenina]()
+
+*Output data mangment by [Elizaveta Leonova]()
+
 *Code written by [Alina Morse](http://vk.com/crtcldstnc) & [Anna Polyanskaya](http://vk.com/aglade)*
 
 
@@ -53,4 +56,4 @@ Output data in right format| done
 User-friendly interface| done
 
 look!
-![](/images/first_try.png)
+![](/images/63-degree.png)
