@@ -1,17 +1,15 @@
 # ВНИМАНИЕ!
-# Этот код требует наличия следующих модулей:
-# PyPDF2 и bs4
-# Убедитесь что они установлены!
+# Этот код требует наличия следующего модуля:
+# bs4
+# Убедитесь что он установлены!
 
 import time
-import PyPDF2
 import re
 import os
 import urllib.request
 from bs4 import BeautifulSoup
 import sys
 from urllib.request import Request, urlopen
-from collections import Counter
 
 
 # открывает сстраницу и собирает все ссылки на статьи
@@ -52,9 +50,7 @@ def create_meta_txt():
     with open('all_camb_articles.txt', 'w', encoding='utf-8') as f:
         f.write(x)
 
-    # записывает список в файл построчно
-
-
+# записывает список в файл построчно
 def write_meta_txt(all_articles):
     with open('all_camb_articles.txt', 'a', encoding='utf-8') as f:
         for link in all_articles:
