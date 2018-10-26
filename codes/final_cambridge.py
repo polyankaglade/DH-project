@@ -1,17 +1,15 @@
 # ВНИМАНИЕ!
-# Этот код требует наличия следующих модулей:
-# PyPDF2 и bs4
+# Этот код требует наличия следующего модуля:
+# bs4
 # Убедитесь что они установлены!
 
 import time
-import PyPDF2
 import re
 import os
 import urllib.request
 from bs4 import BeautifulSoup
 import sys
 from urllib.request import Request, urlopen
-from collections import Counter
   
 
 # открывает сстраницу и собирает все ссылки на статьи
