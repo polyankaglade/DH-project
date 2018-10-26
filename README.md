@@ -3,15 +3,16 @@
 
 If you don't want to deal with Python, you can use theese [ready-for-Gephi .csv files](/output).
 
-> Codes require `PyPDF2` and `bs4` modules.
-> You can get them using `pip install [module name]`.
+> Codes require `bs4` module.
+> You can get it using `pip install beutifulsoup4`.
 
 We are currently using two collections.
 
 * The [`final_dialogue.py`](/codes/final_dialogue.py)
 uses a collection of articles from [Dialogue conference](http://www.dialog-21.ru/).
-It consists of 1748 articles in Russian and English, mostly in FUCKING PDF format.
+It consists of 1748 articles in Russian and English, mostly in ~~FUCKING~~ PDF format.
 
+> It requires one more module: `PyPDF2`. You can also get iy with `pip install`.
 > So far, Russian PDF-files can't be read **at all** (*pyPDF2 is really bad at it*).
 
 * The [`final_cambridge.py`](/codes/final_cambridge.py)
@@ -46,7 +47,7 @@ step|status
 Crawler| done
 Get/download articles| done
 Get all citations| done
-Get authors' surnames right|NO
+Get authors' surnames right|almost
 Output data in right format| done
 User-friendly interface| done
 
