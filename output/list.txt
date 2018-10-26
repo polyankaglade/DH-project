@@ -1,0 +1,292 @@
+yes	initials				variants
+1	m. a. k. halliday		m. a. k halliday
+1	j. milroy				james milroy
+1	l. milroy				lesley milroy
+1	m. ariel				mira ariel
+1	e. j. weiner			e. judith weiner
+1	w. labov				william labov			
+1	e. c. fudge				erik fudge
+							e. fudge
+1	n. waterson				natalie waterson
+1	a.-m. di sciullo		anne-marie di sciullo
+1	p. muysken				pieter muysken
+1	r. singh				rajendra singh
+1	c. gussenhoven			carlos gussenhoven
+1	r. lass					roger lass
+1	s. c. levinson			stephen c. levinson
+1	j. k. local				j. k. local
+1	j. kelly				j. kelly
+1	w. h. g. wells			w. h. g. wells
+1	k. hengeveld			kees hengeveld
+1	j. r. westbury			john r. westbury
+1	p. a. keating			patricia a. keating
+1	m. gregory				michael gregory
+1	g. g. corbett			greville g. corbett
+							greville corbett
+1	a. m. zwicky			arnold m. zwicky
+							arnold zwicky
+1	j. a. hawkins			john a. hawkins
+1	j. beavers				john beavers
+1	b. levin				beth levin
+1	s. w. tham				shiao wei tham
+1	j. anderson				john anderson
+1	c. jones				charles jones
+1	n. chomsky				noam chomsky
+1	m. halle				morris halle
+1	j. boyd					julian boyd
+1	j. p. thorne
+1	o. c. m. fischer		olga c. m. fischer
+1	f. c. van der leek		frederike c. van der leek
+1	a. cruttenden			alan cruttenden
+1	j. lyons				john lyons
+1	c. l. allen				cynthia l. allen
+1	n. m. fraser			norman m. fraser
+1	n. fabb					nigel fabb
+1	m. a. macken			marlys a. macken
+1	d. fallows				deborah fallows
+1	a. r. warner
+1 	d. a. cruse
+1	t. tsunoda				tasaku tsunoda
+1	a. lehrer				adrienne lehrer
+1	j. harris				john harris
+1	y. huang				yan huang
+1 	m. maiden				martin maiden
+1	y.-c. morin				yves-charles morin
+1	j. d. kaye				jonathan d. kaye
+1	a. akinlabi				akinbiyi akinlabi
+1	g. horrocks				geoffrey horrocks
+1	m. stavrou				melita stavrou
+1	r. fowler				roger fowler
+1	l. sadler				louisa sadler
+1	d. j. arnold			douglas j. arnold
+1	m. groefsema			marjolein groefsema
+	i. m. schlesinger
+1	r. a. hudson			richard a. hudson
+1	j. van der auwera		johan van der auwera
+1	m. l. rivero			maria luisa rivero
+							maría luisa rivero
+1	a. terzi				arhonto terzi
+1	j. sprouse				jon sprouse
+1	d. almeida				diogo almeida
+1	w. u. dressler			wolfgang u. dressler
+1	d. lightfoot			david lightfoot
+							david w. lightfoot
+1	w. croft				william croft
+1 	n. dehé					nicole dehé
+1	g. sampson				geoffrey sampson
+1	j. van kuppevelt		jan van kuppevelt
+1	a. alexiadou			artemis alexiadou
+1	e. doron				edit doron
+1	m. bader				markus bader
+1	j. häussler				jana häussler
+1	d. blakemore			diane blakemore
+1	l. burzio				luigi burzio
+1	j. p. thorne			james peter thorne
+1	m. w. wagers			matthew w. wagers
+1	c. phillips				colin phillips	
+1	m. teresa espinal
+1	l. mcnally				louise mcnally
+1	a. k. scott				alan k. scott
+1	c. boeckx				cedric boeckx
+1	k. nisula				kirsten nisula
+1	g. simon				goergia simon
+1	i. philippaki-warburton	irene philippaki-warburton
+1	a. cutler				anne cutler
+1	j. mcqueen				james mcqueen
+1	k. robinson				ken robinson
+1	m. labelle				marie labelle
+1	i. meir					irit meir
+1	c. a. padden			carol a. padden
+1	m. aronoff				mark aronoff
+1	w. sandler				wendy sandler
+1	i. bosque				ignacio bosque
+1	c. picallo				carme picallo
+1	b. heine				bernd heine
+1	k.-a. song				kyung-an song
+1	g. k. pullum			geoffrey k. pullum
+1	n. burton-roberts		noel burton-roberts
+1	d. a. dinnsen			daniel a. dinnsen
+1	liliane haegeman		l. haegeman
+1	r. huddleston			rodney huddleston
+1	j. harris
+1	d. j. allerton
+1	g. morgan				gerry morgan
+1	m. s. dryer				matther s. dryer
+1	g. t. stump				gregory t. stump
+1	s. romaine				suzanne romaine
+1	a. klinge				alex klinge
+1	f. beukema				frits beukema
+1	p. coopmans				peter coopmans
+1	d. bolinger				dwight bolinger
+							d. l. bolinger
+1	r. l. cheng				robert l. cheng
+1	d. matić				dejan matić
+1	d. wedgwood				daniel wedgwood
+1	r. schiering			rené schiering
+1	b. bickel				balthasar bickel
+1	k. a. hildebrandt		kristine a. hildebrandt
+1	s. r. anderson			stephen r. anderson
+1	f. w. householder		
+1 	d. crystal				david crystal
+1	t. janson				tore janson
+1	r. schulman				richard schulman
+1	g. bauer				gero bauer
+1	r. clark				ruth clark
+1	s. hutcheson			sandy hutcheson
+1	p. van buren			paul van buren
+1	c. lyons				christopher lyons
+1	m. shibatani			masayoshi shibatani
+1	m. j. powell			mava jo powell
+1	t. e. hukari			thomas e. hukari
+1	r. d. levine			robert d. levine
+1	l. a. michaelis			laura a. michaelis
+1 	n. v. smith
+1	m. a. jones				michael allan jones
+1	c. bache				carl bache
+1	p. werth				paul werth
+1	r. hudson				richard hudson
+1	f. r. palmer
+1	d. j. napoli			donna jo napoli
+1	k.-o. kim				kong-on kim
+1	s. bird					steven bird
+1	e. klein				ewan klein
+1	j. beckman				jill beckman
+1	b. partee				barbara partee
+1	m. jessen				michael jessen
+1	c. ringen				catherine ringen
+1	a. m. s. mcmahon		april m. s. mcmahon
+1	l. bauer				laurie bauer
+1	n. b. mcneill
+1	k. allan				keith allan
+1	d. silverman			
+1	m. ernestus				mirjam ernestus
+1	j. rubach				jerzy rubach
+1	b. hayes				bruce hayes
+1	l. rizzi				luigi rizzi
+1	a. albright				adam albright
+1	p. kiparsky				paul kiparsky
+1	j. bresnan				joan bresnan
+1	m. haspelmath			martin haspelmath
+1	g. booij				geert booij
+1	m. kenstowicz			michael kenstowicz
+1	m. butt					miriam butt
+1	i. a. sag				ivan a. sag
+1	i. plag					ingo plag
+1	t. h. king				tracy holloway king
+1	b. comrie				bernard comrie
+1	e. anagnostopoulou		elena anagnostopoulou
+1	j. bybee				joan bybee
+1	p. boersma				paul boersma
+1	k. johnson				keith johnson
+1	a. kratzer				angelika kratzer
+1	m. den dikken			marcel den dikken
+1	a. spencer				andrew spencer
+1	h. borer				hagit borer
+1	k. akita				kimi akita
+1	s. shattuck-hufnagel	stefanie shattuck-hufnagel
+1	h. harley				heidi harley
+1	a. marantz				alec marantz
+1	j. pater				joe pater
+1	r. jackendoff			ray jackendoff
+1	j. grimshaw				jane grimshaw
+1	o. bonami				olivier bonami
+1	j. jun					jongho jun
+1	m. dalrymple			mary dalrympe
+1	ž. bošković				željko bošković
+1	c. heycock				caroline heycock
+1	i. roberts				ian roberts
+1	j. j. mccarthy			john j. mccarthy
+1	d. bates				douglas bates
+1	s. gahl					susanne gahl
+1	g. gazdar				gerald gazdar
+1	m. pluymaekers			mark pluymaekers
+1	a. e. turk				alice e. turk
+1	g. cinque				guglielmo cinque
+1	m. krifka				manfred krifka
+1	e. hume					elizabeth hume
+1	s. müller				stefan müller
+1	t. wasow				thomas wasow
+1	d. adger				david adger
+1	y. kang					yoonjung kang
+1	a. bell					alan bell
+1	i. tamori				ikuhiro tamori
+1	k. toratani				kiyoko toratani
+1	r. bermúdez-otero		ricardo bermúdez-otero
+1	k. zuraw				kie zuraw
+1 	k. hale					kenneth hale			
+1	h. lasnik				howard lasnik
+1	j. van marle			jaap van marle
+1	k. demuth				katherine demuth
+1	j. uriagereka			juan uriagereka
+1	d. steriade				donca steriade
+1	r. schreuder			robert schreuder
+1	r. d. borsley			robert d. borsley
+1	g. kunter				gero kunter
+1	b. bolker				ben bolker
+1	m. dingemanse			mark dingemanse
+1	c. pollard				carl pollard
+1	w. j. m. levelt			william j. m. levelt
+1	n. warner				natasha warner
+1	m. rappaport hovav		malka rappaport hovav
+1	m. polinsky				maria polinsky
+1	r. h. baayen			r. harald baayen
+							harald baayen
+1	d. jurafsky				daniel jurafsky 				
+1	f. ackerman				farrell ackerman
+1	a. zeileis				achim zeileis
+1	t. scheer				tobias scheer
+1	a. holmberg				anders holmberg
+1	d. pesetsky				david pesetsky
+1	b. crysmann				berthold crysmann
+1	o. preminger			omer preminger
+1	u. sauerland			uli sauerland
+1	c. collins				chris collins
+1	s. pinker				steven pinker
+1	s. rose					sharon rose
+1	a. nevins				andrew nevins
+1	s. wurmbrand			susanne wurmbrand
+1	a. s. prince			alan s. prince
+1	m. becker				michael becker
+1	a. w. coetzee			andries w. coetzee
+1	s. wechsler				stephen wechsler
+1	m. baltazani			mary baltazani
+1	j.-p. koenig			jean-pierre koenig
+1	j. moore				john moore
+1	a. alsina				alex alsina
+1	l. lindström			liina lindström
+1	p. svenonius			peter svenonius
+1	l. zlatić				larisa zlatić
+1	j. good					jeff good
+1	y.-k. kim-renaud		young-key kim-renaud
+1	m. mcginnis				martha mcginnis
+1	b. primus				beatrice primus
+1	c. m. beach				cheryl m. beach
+1	b. braun				bettina braun	
+1	d. büring				daniel büring
+1	m. hammond				michael hammond
+1	c. girand				cynthia girand
+1	s. béjar				susana béjar
+1	h. van riemsdijk		henk van riemsdijk
+1	a. belletti				adriana belletti
+1	p. sells				peter sells
+1	j. ginzburg				jonathan ginzburg
+1	m. maechler				martin maechler
+1	t. hothorn				torsten hothorn
+1	m. sugahara				mariko sugahara
+1	n. tsujimura			natsuko tsujimura
+1	p. de lacy				paul de lacy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
