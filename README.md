@@ -20,7 +20,7 @@ uses a collection of articles from [Journal of Linguistics](https://www.cambridg
 It consists of 934 articles in English from the [Most cited](https://www.cambridge.org/core/journals/journal-of-linguistics/most-cited) section.
 
 *Visualisation by [Olga Vedenina]()
-*Code written by [Alina Morse](vk.com/crtcldstnc) & [Anna Polyanskaya](vk.com/aglade)*
+*Code written by [Alina Morse](http"//vk.com/crtcldstnc) & [Anna Polyanskaya](http://vk.com/aglade)*
 
 
 HSE, 2018
