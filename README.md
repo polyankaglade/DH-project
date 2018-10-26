@@ -46,5 +46,6 @@ step|status
 Crawler| done
 Get/download articles| done
 Get all citations| done
+Get auhors' surnames right|NO
 Output data in right format| done
 User-friendly interface| done
