@@ -49,3 +49,6 @@ Get all citations| done
 Get authors' surnames right|NO
 Output data in right format| done
 User-friendly interface| done
+
+look!
+![](/images/first_try.png)
