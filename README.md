@@ -59,7 +59,7 @@ User-friendly interface| done
 
 In the data we got from the previous step some autors' names were presented in different ways. Unfortunately, we couldn't get them all to  the same format, but we manually corrected some of them (see [a list of corrected authors](/output/list.txt)).
 
-The final version of the ready-for-Gephi .csv file can be founf [here](/output/output_data_cambr_final.csv).
+The final version of the ready-for-Gephi .csv file can be found [here](/output/output_data_cambr_final.csv).
 
 ## Part 3: networks in Gephi
 
@@ -77,11 +77,11 @@ However, this network was still too big to be analysed, so we filetered out some
 
 + "unpopular authors" - nodes, which in-degree was less than 20. Why 20? That allowed us to make the graph much smaller without losing too much relevant data, see:
 
-![](/images/in-degree.jpeg)
+![](/images/in-degree.jpg)
 
 + "short papers" - nodes, wich out-degree was less than 100. Why 100? Same answer as before, see:
 
-![](/images/out-degree.jpeg)
+![](/images/out-degree.jpg)
 
 ### Filetered out
 
@@ -102,7 +102,7 @@ As you can see, there are 7 main clusters. See [this PDF file](/images/clusters.
 5. ![](/colors/magenta.png) Typology
 6. ![](/colors/pink.png) Speech analysis and phonology
 7. ![](/colors/red.png) Specialising in Japanese & Oceanic syntax (in is questionable, whether A.M. Zwicky and G.K. Pullum soild be here)
-> Im my opinion, they should be also deleted from this network at all (C) Anna Polyanskaya
+> In my opinion, they should be also deleted from this network at all. (C) Anna Polyanskaya
 8. ![](/colors/dark-green.png) Morphology
 9. ![](/colors/grey.png) A very small and very specific cluster of two Canadian linguists from Quebec: Carole Paradis and Darlene Lacharité
 
@@ -114,16 +114,24 @@ Here you can see an unclusterised network of the same authors. Node size represe
 
 ![](/images/centrality.png)
 
+See [this PDF file](/images/cenrality.pdf) for a better quality image.
+
 This information is to be analysed in the future.
 
 ## Conclusion
 
-This method allowes us to:
+This method allows us to:
 + find out most cited authors *(most important for linguists of any field of work)*
 + authomaticlly clusterise linguists by the field of their research *( it is still a WIP, but it does show some relevant results)*
 + establish reception of ideas in linguistic papers and see how those ideas came to be *(by analysing betweenness and closeness centrality)*
 
 ## Further work
+
++ Using the Dialogue dataset to make a network of Russian computational linguists
++ Analysing centrality and what it means
++ Investigating self-referencing (= self-loops)
++ Investigating strong bound between authors (= edge-weights)
++ Investigating a network, filtered the other way around ("upopular authors" and "small papers") 
 
 ## and a meme for y'all
 
