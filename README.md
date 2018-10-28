@@ -1,10 +1,8 @@
 # Citation network
 
-You can find our presentation from 27.10.2018 [here](https://drive.google.com/file/d/1leR89wB3OM3DSVMla8p6JeDPkKp1My1Z/view?usp=sharing)
+You can find our presentation from 27.10.2018 [here](https://drive.google.com/file/d/1leR89wB3OM3DSVMla8p6JeDPkKp1My1Z/view?usp=sharing).
 
 ## Part 1: getting data
-
-[1](/images/zlevels_by_between_labelsize_by_indegree.png)
 
 **[Here](/codes) you can find two Python-3 codes, which extract all references from a collection of articles and make extracted material ready for Gephy.**
 
@@ -70,6 +68,7 @@ The final version of the ready-for-Gephi .csv file can be founf [here](/output/o
 The graph we got consisted of 20408 nodes (= authors) and about 60000 edges (= instances of referencing). 
 
 We arranges and scaled the nodes by their in-degree (= by how many authors a certain person was referenced) and got the following graph, showing Noam Chomsky to be "the most popular" (he was referenced by 298 out of 948 authors, that's about third of them!)
+
 ![](/images/chomsky.png)
 
 Well, we decided to delete Noam Chomsky from our network :)
@@ -77,31 +76,35 @@ Well, we decided to delete Noam Chomsky from our network :)
 However, this network was still too big to be analysed, so we filetered out some nodes:
 
 + "unpopular authors" - nodes, which in-degree was less than 20. Why 20? That allowed us to make the graph much smaller without losing too much relevant data, see:
-![](/images/in-degree.png)
+
+![](/images/in-degree.jpeg)
 
 + "short papers" - nodes, wich out-degree was less than 100. Why 100? Same answer as before, see:
-![](/images/out-degree.png)
+
+![](/images/out-degree.jpeg)
 
 ### Filetered out
 
 Than we used the sandart clusterising function to get this:
-![](/images/clusters.png)
-*label size represents the in-degree, node size represents betweenness centrality*
 
-As you can see, there are 7 main clusters.
+![](/images/clusters.png)
+
+  *label size represents the in-degree, node size represents betweenness centrality*
+
+As you can see, there are 7 main clusters. See [this PDF file](/images/clusters.pdf) for a better quality image.
 
 ## Analysing clusters
 
-![](/colors/blue.png) Comparative linguistics
-![](/colors/cyan.png) Syntax
-![](/colors/light-green.png) Specialising in English (grammar mostly)
-![](/colors/orange.png) Sociolinguistics & morphology (really mixed one, we think it shlould be sub-clusterised)
-![](/colors/magenta.png) Typology
-![](/colors/pink.png) Speech analysis and phonology
-![](/colors/red.png) Specialising in Japanese & Oceanic syntax (in is questionable, whether A.M. Zwicky and G.K. Pullum soild be here)
+1. ![](/colors/blue.png) Comparative linguistics
+2. ![](/colors/cyan.png) Syntax
+3. ![](/colors/light-green.png) Specialising in English (grammar mostly)
+4. ![](/colors/orange.png) Sociolinguistics & morphology (really mixed one, we think it shlould be sub-clusterised)
+5. ![](/colors/magenta.png) Typology
+6. ![](/colors/pink.png) Speech analysis and phonology
+7. ![](/colors/red.png) Specialising in Japanese & Oceanic syntax (in is questionable, whether A.M. Zwicky and G.K. Pullum soild be here)
 > Im my opinion, they should be also deleted from this network at all (C) Anna Polyanskaya
-![](/colors/dark-green.png) Morphology
-![](/colors/grey.png) A very small and very specific cluster of two Canadian linguists from Quebec: Carole Paradis and Darlene Lacharité
+8. ![](/colors/dark-green.png) Morphology
+9. ![](/colors/grey.png) A very small and very specific cluster of two Canadian linguists from Quebec: Carole Paradis and Darlene Lacharité
 
 However, this clusters are not comletely "clean": they are also affected by authors' region of origin and region of interest.
 
@@ -123,14 +126,13 @@ This method allowes us to:
 ## Further work
 
 ## and a meme for y'all
-![Source]
 
-Noam Chomsky in linguistic world (oil, canvas). [Source].
+![](https://memepedia.ru/wp-content/uploads/2018/02/%D0%BC%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%B5%D1%82%D0%BA%D0%B8.jpg)
 
-
-[Source]: https://memepedia.ru/wp-content/uploads/2018/02/%D0%BC%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%B5%D1%82%D0%BA%D0%B8.jpg
+  *Noam Chomsky in linguistic world (oil, canvas).* [Source](https://memepedia.ru/wp-content/uploads/2018/02/%D0%BC%D0%B0%D1%80%D0%B8%D0%BE%D0%BD%D0%B5%D1%82%D0%BA%D0%B8.jpg).
 
 
+***
 
 *Presentation by Olga Vedenina*
 
@@ -139,5 +141,7 @@ Noam Chomsky in linguistic world (oil, canvas). [Source].
 *Code and presentation by [Alina Morse](http://vk.com/crtcldstnc) & [Anna Polyanskaya](http://vk.com/aglade)*
 
 Feel free to contact [Anna](off.polyanskaya.a@gmail.com) for any questions.
+
+
 
 HSE, 2018
