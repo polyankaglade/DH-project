@@ -95,16 +95,16 @@ As you can see, there are 7 main clusters. See [this PDF file](/images/clusters.
 
 ## Analysing clusters
 
-1. ![](/colors/blue.PNG) Comparative linguistics
-2. ![](/colors/cyan.PNG) Syntax
-3. ![](/colors/light-green.PNG) Specialising in English (grammar mostly)
-4. ![](/colors/orange.PNG) Sociolinguistics & morphology (really mixed one, we think it shlould be sub-clusterised)
-5. ![](/colors/magenta.PNG) Typology
-6. ![](/colors/pink.PNG) Speech analysis and phonology
-7. ![](/colors/red.PNG) Specialising in Japanese & Oceanic syntax (in is questionable, whether A.M. Zwicky and G.K. Pullum soild be here)
+1. ![](/images/blue.PNG) Comparative linguistics
+2. ![](/images/cyan.PNG) Syntax
+3. ![](/images/light-green.PNG) Specialising in English (grammar mostly)
+4. ![](/images/orange.PNG) Sociolinguistics & morphology (really mixed one, we think it shlould be sub-clusterised)
+5. ![](/images/magenta.PNG) Typology
+6. ![](/images/pink.PNG) Speech analysis and phonology
+7. ![](/images/red.PNG) Specialising in Japanese & Oceanic syntax (in is questionable, whether A.M. Zwicky and G.K. Pullum soild be here)
 > In my opinion, they should be also deleted from this network at all. (C) Anna Polyanskaya
-8. ![](/colors/dark-green.PNG) Morphology
-9. ![](/colors/grey.PNG) A very small and very specific cluster of two Canadian linguists from Quebec: Carole Paradis and Darlene Lacharité
+8. ![](/images/dark-green.PNG) Morphology
+9. ![](/images/grey.PNG) A very small and very specific cluster of two Canadian linguists from Quebec: Carole Paradis and Darlene Lacharité
 
 However, this clusters are not comletely "clean": they are also affected by authors' region of origin and region of interest.
 
