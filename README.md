@@ -130,7 +130,7 @@ This method allows us to:
 + Using the Dialogue dataset to make a network of Russian computational linguists
 + Analysing centrality and what it means
 + Investigating self-referencing (= self-loops)
-+ Investigating strong bound between authors (= edge-weights)
++ Investigating strong bound between authors (= edge weight)
 + Investigating a network, filtered the other way around ("upopular authors" and "small papers") 
 
 ## and a meme for y'all
