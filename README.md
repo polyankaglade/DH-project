@@ -101,7 +101,7 @@ As you can see, there are 7 main clusters. See [this PDF file](/images/clusters.
 4. ![](/images/orange.PNG) Sociolinguistics & morphology (really mixed one, we think it shlould be sub-clusterised)
 5. ![](/images/magenta.PNG) Typology
 6. ![](/images/pink.PNG) Speech analysis and phonology
-7. ![](/images/red.PNG) Specialising in Japanese & Oceanic syntax (in is questionable, whether A.M. Zwicky and G.K. Pullum soild be here)
+7. ![](/images/red.PNG) Specialising in Japanese & Oceanic syntax (it is questionable, whether A.M. Zwicky and G.K. Pullum should be here)
 > In my opinion, they should be also deleted from this network at all. (C) Anna Polyanskaya
 8. ![](/images/dark-green.PNG) Morphology
 9. ![](/images/grey.PNG) A very small and very specific cluster of two Canadian linguists from Quebec: Carole Paradis and Darlene Lacharité
